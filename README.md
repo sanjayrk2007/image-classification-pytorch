@@ -11,7 +11,7 @@ Two approaches to the same goal: train and compare a **hand-built CNN** and a **
 | | **Custom CNN** | **ResNet18** |
 |--|----------------|--------------|
 | **Approach** | Built from scratch | Pretrained, fine-tuned |
-| **Accuracy** | **89.11%** | **91.95%** |
+| **Accuracy** | **88.44%** | **91.95%** |
 | **Epochs** | 30 | 10 |
 | **Notebook** | `cnn_pytorch.ipynb` | `resnet_pytorch.ipynb` |
 
